@@ -95,10 +95,6 @@ Si tu veux **ajouter des fonctionnalités**, fais une **pull request** ou ouvre 
 
 ---
 
-## 📜 Licence
-Ce projet est sous licence **MIT**.  
-Tu peux l’utiliser et le modifier librement. 🚀
 
----
 
 
