@@ -1,0 +1,8 @@
+chainlit
+langchain
+langchain_community
+langchain_huggingface
+huggingface_hub
+sentence-transformers
+chromadb
+
